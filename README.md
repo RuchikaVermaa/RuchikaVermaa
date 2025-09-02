@@ -1,11 +1,10 @@
-
-"center">Hi 👋, I'm Ruchika Verma</h1>
+<p align="center">
+  <img src="https://github.com/RuchikaVermaa/RuchikaVermaa/blob/main/github-header-banner%20(1).png?raw=true" alt="GitHub Banner" width="800" />
+</p>
+<h1 align="center">Hi 👋, I'm Ruchika Verma</h1>
 <h3 align="center">Data Analytics · Data Science · AI & ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchikavermaa&label=Profile%20views&color=0e75b6&style=flat" alt="ruchikavermaa" /> </p>
-
-- 📫 How to reach me
-- **ruchikaverma.workk@gmail.com**
+- 📫 How to reach me **ruchikaverma.workk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchikavermaa&show_icons=true&locale=en" alt="ruchikavermaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikavermaa&" alt="ruchikavermaa" /></p>
-
