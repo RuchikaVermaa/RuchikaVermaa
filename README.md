@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/RuchikaVermaa/RuchikaVermaa/blob/main/github-header-banner%20(1).png?raw=true" alt="GitHub Banner" width="800" />
-</p>
+  <img src="https://github.com/RuchikaVermaa/RuchikaVermaa/blob/main/github-header-banner%20(1).png?raw=true" alt="GitHub Banner" style="width:100%; height:auto;" />
+  </p>
 <h1 align="center">Hi 👋, I'm Ruchika Verma</h1>
 <h3 align="center">Data Analytics · Data Science · AI & ML Enthusiast</h3>
 
