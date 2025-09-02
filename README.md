@@ -1,10 +1,11 @@
-<h1 align=<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/e8aed067-44b1-426b-bbfa-70c9b4ec2f31" />
+
 "center">Hi 👋, I'm Ruchika Verma</h1>
 <h3 align="center">Data Analytics · Data Science · AI & ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchikavermaa&label=Profile%20views&color=0e75b6&style=flat" alt="ruchikavermaa" /> </p>
 
-- 📫 How to reach me **ruchikaverma.workk@gmail.com**
+- 📫 How to reach me
+- **ruchikaverma.workk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
