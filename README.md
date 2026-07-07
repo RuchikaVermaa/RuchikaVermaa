@@ -1,27 +1,44 @@
+<h1 align="center">Hi, I'm Ruchika Verma 👋</h1>
+<h3 align="center">Aspiring Data Scientist | Python · SQL · Power BI · Excel</h3>
+
 <p align="center">
-  <img src="https://github.com/RuchikaVermaa/RuchikaVermaa/blob/main/github-header-banner%20(2).png?raw=true" alt="GitHub Banner" style="width:100%; height:auto;" />
-</p>
-<h1 align="center">Hi 👋, I'm Ruchika Verma</h1>
-<h3 align="center">Data Analytics · Data Science · AI & ML Enthusiast</h3>
-
-- 📫 How to reach me **ruchikaverma.workk@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ruchika-verma-1ab509357/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruchika-verma-1ab509357/" height="30" width="40" /></a>
+BCA graduate with hands-on, project-based experience in data analytics, business intelligence, and problem-solving. I've analyzed 20K+ records for customer segmentation, sales performance, and forecasting — turning raw data into KPIs, dashboards, and insights that support real decisions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+🔍 Interested in data modeling, predictive analytics, and building dashboards that make data easy to act on.
+</p>
+
+<br>
+
+## 🛠️ Skills
+
+| Category | Stack |
+|---|---|
+| **Programming & Analysis** | Python (Pandas, NumPy, Matplotlib, Scikit-learn) · SQL · Excel (Pivot Tables, Power Query, VLOOKUP/XLOOKUP) |
+| **BI & Visualization** | Power BI (DAX, Data Modeling, Star Schema) · Tableau |
+| **Analytics & Techniques** | Data Cleaning · EDA · KPI Development · Customer & Sales Analysis · Forecasting · Regression & Classification |
+| **Databases & Tools** | MySQL · PostgreSQL · SQLite · Git · Jupyter Notebook · VS Code |
+
+<br>
+
+## 💼 Experience
+
+- 🤖 Built and evaluated **machine learning models** — clustering, classification, and regression — on real-world datasets
+- 📊 Performed **Exploratory Data Analysis (EDA)** to clean, transform, and uncover patterns in raw data
+- 📈 Developed **interactive dashboards** in Power BI to track KPIs and support business decisions
+- 🗃️ Used **SQL** for data querying, aggregation, and reporting across relational databases
+- 🐍 Applied **Python** across the full analytics workflow — from data wrangling to model building and visualization
+
+<br>
+
+## 📫 Let's Connect
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchikavermaa&layout=compact" />
+<a href="mailto:ruchikaverma.workk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ruchika-verma-1ab509357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchikavermaa&show_icons=true" />
-</p>
+---
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikavermaa" />
-</p>
+⭐ Feel free to explore my repositories — and if something's useful, a star is always appreciated!
